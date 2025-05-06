@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on GIS analyst in NGO
+- ✨ 5+ years experience using GIS desktop analysis (ArcMap, ArcGIS Pro, QGIS, Agisoft Metascape).
+- 🌱 I’m currently learning Data Analytics and GeoAI with Python 
+- 👯 I’m looking to collaborate on any remote project
+- 💬 Ask me about restoration, carbon project, forestry planning, spatial and remote sensing analze
+- 📫 How to reach me: ardianzaki@gmail.com and my linkedin
 
 <!--
 **ardianzakifirdhaus/ardianzakifirdhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
