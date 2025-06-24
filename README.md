@@ -1,7 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a GIS analyst in an NGO
+- 🔭 Bachelor's degrees at the Faculty of Forestry, Gadjah Mada University
+- ✨ I’m currently working as a GIS analyst in an NGO
 - ✨ 5+ years experience using GIS desktop analysis (ArcMap, ArcGIS Pro, QGIS, Agisoft Metascape).
-- 🌱 I’m currently learning Data Analytics, Python and Geospatial
+- 🌱 I’m currently learning Data Analytics, Python, and Geospatial
 - 👯 I’m looking to collaborate on any remote project
 - 💬 Ask me about restoration, carbon project, forestry planning, spatial and remote sensing analysis
 - 📫 How to reach me: ardianzaki@gmail.com and my linkedin 
