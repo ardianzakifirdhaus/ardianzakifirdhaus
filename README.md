@@ -14,7 +14,7 @@
 | **Courses** | [DQLab](https://www.dqlab.id)  |
 |------------|-----------------------------------------------------------------------------------|
 | **Projects** | [Loading]()  |
-| **Articles** | · [GEEMAP](https://github.com/gee-community/geemap) · [Geospatial_Model](https://github.com/ck1972/Python-Geospatial_Model1) · [Data Science Learning and Machine Learning](https://github.com/aladdinpersson/Machine-Learning-Collection) |
+| **Reference** | · [GEEMAP](https://github.com/gee-community/geemap) · [Geospatial_Model](https://github.com/ck1972/Python-Geospatial_Model1) · [Data Science Learning and Machine Learning](https://github.com/aladdinpersson/Machine-Learning-Collection) |
 
 ---
 
@@ -36,25 +36,9 @@
 ## 🌐 You Can Find Me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ardian-zaki-firdhaus)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@ardianzakifirdhaus)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@ardian.zaki)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/ardianzakifirdhaus)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:ardianzakifirdhaus@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/ardianzakif)
 
 ---
-
-<img src="https://raw.githubusercontent.com/ardianzakifirdhaus/ardianzakifirdhaus/main/assets/cat-laptop.png" width="200"/>
-<!--
-**ardianzakifirdhaus/ardianzakifirdhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
