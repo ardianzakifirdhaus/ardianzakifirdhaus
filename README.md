@@ -30,7 +30,6 @@
 ## 📊 GitHub Stats
 
 ![Ardian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardianzakifirdhaus&show_icons=true&theme=default)
-![Ardian's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ardianzakifirdhaus)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardianzakifirdhaus&layout=compact&cache_seconds=1)
 
 ---
