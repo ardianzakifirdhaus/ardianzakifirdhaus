@@ -21,7 +21,7 @@
 
 ## 📰 Latest Articles
 
-- [Experince Working in Peatland and Mangrove](https://medium.com/@ardian.zaki/tropical-peatland-restoration-and-mangrove-rehabilitation-cd11387595be)
+- [Experience Working in Peatland and Mangrove](https://medium.com/@ardian.zaki/tropical-peatland-restoration-and-mangrove-rehabilitation-cd11387595be)
 - [Google Earth Engine| Precipitation](https://medium.com/@ardian.zaki/gee-precipitation-monthly-per-regency-012273bb6692)
 - [Google Earth Engine| Atmospheric](https://medium.com/@ardian.zaki/gee-atmospheric-sentinel-5p-satellite-time-series-monthly-e9158f3b8b10)
 
@@ -30,6 +30,7 @@
 ## 📊 GitHub Stats
 
 ![Ardian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardianzakifirdhaus&show_icons=true&theme=default)
+![Ardian's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ardianzakifirdhaus)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardianzakifirdhaus&layout=compact&cache_seconds=1)
 
 ---
