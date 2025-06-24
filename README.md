@@ -11,20 +11,18 @@
 
 ## ⭐ Popular Repositories
 
-| **Courses** | [DQLab](https://www.dqlab.id) · [Dicoding](https://www.dicoding.com) · [Progate](https://progate.com) |
+| **Courses** | [DQLab](https://www.dqlab.id)  |
 |------------|-----------------------------------------------------------------------------------|
-| **Projects** | [Rock Paper Scissors](https://github.com/ardianzakifirdhaus/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/ardianzakifirdhaus/Interactive-ML-Dashboard) |
-| **Articles** | [Data Science Guide](#) · [Data Science Learning Path](#) |
+| **Projects** | [Loading]() · [GEEMAP](https://github.com/gee-community/geemap) |
+| **Articles** | [Geospatial_Model](https://github.com/ck1972/Python-Geospatial_Model1) · [Data Science Learning and Machine Learning](https://github.com/aladdinpersson/Machine-Learning-Collection) |
 
 ---
 
 ## 📰 Latest Articles
 
-- [SPSS | Latest Statistical Analysis Software ?](#)
-- [Apa itu Big Data?](#)
-- [Pemrograman Berbasis Web: Pengenalan HTTP](#)
-- [Pemrograman Berbasis Web: Dasar-dasar Internet](#)
-- [Basis Data: Model Relasional dan Pemodelan Relasi Entitas](#)
+- [Experince Working in Peatland and Mangrove](https://medium.com/@ardian.zaki/tropical-peatland-restoration-and-mangrove-rehabilitation-cd11387595be)
+- [Google Earth Engine| Precipitation](https://medium.com/@ardian.zaki/gee-precipitation-monthly-per-regency-012273bb6692)
+- [Google Earth Engine| Atmospheric](https://medium.com/@ardian.zaki/gee-atmospheric-sentinel-5p-satellite-time-series-monthly-e9158f3b8b10)
 
 ---
 
@@ -41,9 +39,7 @@
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@ardianzakifirdhaus)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/ardianzakifirdhaus)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:ardianzakifirdhaus@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/ardianzakif)
 
 ---
 
