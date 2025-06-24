@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 ![Ardian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardianzakifirdhaus&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardianzakifirdhaus&layout=compact&hide=jupyter%20notebook&exclude_repo=repo1,repo2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardianzakifirdhaus&layout=compact&cache_seconds=1)
 
 ---
 
