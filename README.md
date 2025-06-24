@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Analytics and Python
 - 👯 I’m looking to collaborate on any remote project
 - 💬 Ask me about restoration, carbon project, forestry planning, spatial and remote sensing analysis
-- 📫 How to reach me: ardianzaki@gmail.com and my linkedin ardianzakif
+- 📫 How to reach me: ardianzaki@gmail.com and my linkedin 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ardianzakifirdhaus&style=flat-square&color=blue)
 
 ---
