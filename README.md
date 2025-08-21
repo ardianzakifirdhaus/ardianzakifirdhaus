@@ -15,7 +15,7 @@
 
 | **Courses** |[DQLab](https://www.dqlab.id)|
 |------------|-----------------------------------------------------------------------------------|
-| **Projects** | [Loading]()  |
+| **Projects** | [Trial_Machine_Learning](https://github.com/ardianzakifirdhaus/Project)  |
 | **Reference** | · [GEEMAP](https://github.com/gee-community/geemap) · [Geospatial_Model](https://github.com/ck1972/Python-Geospatial_Model1) · [Data Science Learning and Machine Learning](https://github.com/aladdinpersson/Machine-Learning-Collection) |
 
 ---
